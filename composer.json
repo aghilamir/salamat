@@ -1,0 +1,12 @@
+{
+    "name": "aghil/medical",
+    "autoload": {
+        "psr-4": {
+            "Aghil\\Medical\\": "src/"
+        }
+    },
+    "require": {
+        "predis/predis": "^2.1"
+       
+    }
+}
